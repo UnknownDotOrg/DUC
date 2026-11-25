@@ -2,7 +2,7 @@
 DUC is a small program that checks for updates on Debian.
 
 ## Launch it on startup
-To make it automatically launch on startup, open a temrinal and enter these commands:
+To make it automatically launch on startup, open a terminal and enter these commands:
 
 `mkdir -p ~/.config/autostart`
 
